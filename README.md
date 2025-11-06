@@ -1,16 +1,14 @@
-# gypsydom_app
+# Gypsydom App
 
-A new Flutter project.
+A Flutter-based tarot and zodiac reading app designed by Monark Design Lab.
+
+## About
+Gypsydom App blends art, astrology, and tarot to provide intuitive readings and spiritual guidance through a modern, interactive interface.
 
 ## Getting Started
+This project is built with Flutter.  
+For setup help, see the [Flutter documentation](https://docs.flutter.dev/get-started/install).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created with 💫 by **Monark Design Lab**
